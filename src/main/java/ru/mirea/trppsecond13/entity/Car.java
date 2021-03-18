@@ -1,12 +1,10 @@
-package ru.mirea.trpp_second_13.entity;
+package ru.mirea.trppsecond13.entity;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.opencsv.bean.CsvBindByName;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
-
-import java.util.List;
 
 /** Сущность автомобиля. */
 @Getter
